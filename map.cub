@@ -1,0 +1,17 @@
+R  1000 1000
+NO   ./tex.XPM   
+SO ./wood.xpm
+
+
+
+WE ./wall_2.xpm 
+EA ./wall_1.xpm
+S ./sprite_1.xpm
+F 255,255,255
+C 0,0,0
+        
+111111
+1000S1
+100001
+100011
+111111
